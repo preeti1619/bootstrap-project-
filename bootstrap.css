@@ -1,0 +1,25 @@
+.nav-link{
+    color:whitesmoke;
+    margin: 5px;
+    margin-left: 20px;
+
+}
+.navbar-nav{
+    margin-top: 10px;
+    font-weight: 900;
+
+}
+.nav-item{
+    margin-left: 50px;
+}
+.container-fluid{
+    margin-top: 20px;
+    /* margin:20px; */
+    display: flex;
+    
+
+}
+.cards{
+    text-align: center;
+}
+
